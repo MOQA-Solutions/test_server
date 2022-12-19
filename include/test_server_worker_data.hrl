@@ -1,0 +1,7 @@
+-record(state , {
+
+	socket :: port()
+
+	}
+
+).
